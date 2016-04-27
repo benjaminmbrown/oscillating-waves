@@ -1,6 +1,6 @@
 
 var angle = 0;
-var angleVel = 0.1;
+var angleVel = 0.4;
 
 function setup() {
  createCanvas(640, 360);
